@@ -18,3 +18,5 @@ Fun Fact: When you reach 50 years old you are allowed to contribute $7000 per ye
 
 I am currently (in August 2021) working to update my github pages website as a <a href="https://sturke.github.io/" target="_blank" rel="noopener noreferrer">portfolio website</a>. I am reviewing my work at FreeCodeCamp and I am preparing to make a move into web development by 2022. I want to work from home and become more independent from my typical 9-5 job.
 
+I just learned that GitHub does not allow target="_blank" to open a new tab from my ReadMe. So, I guess I'll need to provide a link on my linked pages to get back to my github profile easily. 
+
