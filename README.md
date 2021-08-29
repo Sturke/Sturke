@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 I just learned that GitHub does not allow target="_blank" to open a new tab from my ReadMe. So, I guess I'll need to provide a link on my linked pages to get back to my github profile easily. 
 
-I just received my LLC EIN number from the IRS.  So, now it's official. I can be self employed as a freelancer. 
+I just received my LLC EIN number on August 27th from the IRS.  So, now it's official. I can be self employed as a freelancer. 
 
