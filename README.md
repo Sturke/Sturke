@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ⚡Fun Fact: When you reach 50 years old you are allowed to contribute $7000 per year to a Roth IRA rather than the standard $6000. That's just $134/wk and I have nearly accomplished this for 2021. Yay!
 
-🔭I am currently (in August 2021) working to update my github pages website as a <a href="https://sturke.github.io/" target="_blank" rel="noopener noreferrer">portfolio website</a>. I am reviewing my work at FreeCodeCamp and I am preparing to make a move into web development by 2022. I want to work from home and become more independent from my day job that is not in this field.
+🔭I am currently (in October 2021) working to update my github pages website as a <a href="https://sturke.github.io/" target="_blank" rel="noopener noreferrer">portfolio website</a>. I am reviewing my work at FreeCodeCamp and I am preparing to make a move into web development by 2022. I want to work from home and become more independent from my day job that is not in this field. I'm working to refinish my wife's office so she has a finished work space and also, I'm feverishly  trying to get outdoor gardening and grass seed projects finished before the snow flies. All of this time sensitive, climate/seasonal sensitive work must be done now.
 
-I just learned that GitHub does not allow target="_blank" to open a new tab from my ReadMe. So, I guess I'll need to provide a link on my linked pages to get back to my github profile easily. 
 
-I just received my LLC EIN number on August 27th from the IRS.  So, now it's official. I can be self employed as a freelancer. 
+
+
 
