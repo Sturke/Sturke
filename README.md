@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ⚡Fun Fact: When you reach 50 years old you are allowed to contribute $7000 per year to a Roth IRA rather than the standard $6000. That's just $134/wk and I have nearly accomplished this for 2021. Yay!
 
-🔭I am currently (in November 2021) reviewing freecodecamp work and finishing up my Responsive Web Design certification 
+🔭I am currently (in November 2021) reviewing freecodecamp work and finishing up my Responsive Web Design certification. I'm also working to configure a workflow that I like to use GitHub on my MacBook. I just saw a tutorial for a local WordPress development environment called Local by Flywheel that I'm anxious to test out.
 
 
 
