@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ⚡Fun Fact: 
 
-🔭I am currently (in November 2022) reviewing freecodecamp work and finishing up my Responsive Web Design certification. I'm also working to configure a workflow that I like to use GitHub on my MacBook. I just saw a tutorial for a local WordPress development environment called Local by Flywheel that I'm anxious to test out. I've chosen Atom as my code editor. I experimented with Atom several years ago. I just found that it integrates well with GitHub. So, I'm trying to iron out that workflow now.
+🔭I am currently (in November 2022) reviewing freecodecamp work and finishing up my Responsive Web Design certification. I'm also working to configure a workflow that I like to use GitHub on my MacBook. I just saw a tutorial for a local WordPress development environment called Local by Flywheel that I'm anxious to test out. I had installed Atom as my code editor last year on my new (New in 2020) Macbook. I experimented with Atom several years ago. I just found that it was developed and maintained by GitHub, but soon (Dec 2022) GitHub will stop support of Atom and GitHub recommends Visual Studio Code. So, I'm trying to iron out that workflow change now.
 
 
 
