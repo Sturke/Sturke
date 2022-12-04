@@ -24,6 +24,10 @@ The “German” part of German chocolate cake comes from an American man—not 
 ### I Am Currently:
 (in December 2022) reviewing freecodecamp lessons and finishing up my Responsive Web Design certification. I'm also working to configure a workflow that I like to use GitHub on my MacBook. I had installed Atom as my code editor last year on my new (New in 2020) Macbook. I just found that it was developed and maintained by GitHub, but soon (Dec 2022) GitHub will stop support of Atom and GitHub recommends Visual Studio Code. I suppose that reveals how long I've been out of the loop. Microsoft bought GitHub in 2018. So, I'm trying to iron out that workflow change now.
 
+### Really Cool Tip That I Just Learned DEC 3, 2022 from Ryan Hayden at our FreeCodeCamp MeetUp:
+While viewing a GitHub repository, hit the (.) period key. It should open Visual Studio Code in the browser and you can edit right there, Holy Smoke! Amazing!
+
+
 
 
 
