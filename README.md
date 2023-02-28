@@ -24,7 +24,7 @@ The “German” part of German chocolate cake comes from an American man—not 
 
 ### 🔭I am currently:  
 <hr />
- (in February 2023) Working to understand the workflow to get sites pushed to Github and deployed on Netlify. I started with the Netlify Feature Tour and got that working. But, suddenly I found myself lost because the Netlify CLI is so slick, it installed all kinds of files that I dont yet understand. So, I found a simpler template to create a "Simple Landing Page with 11ty". Again, a super amazing CLI install and I understood very little of what is going on under the hood. So, now I'm working to build an 11ty site from scratch. So far, my new build is working and I have Tailwind CSS working as well. Again, Tailwind with another amazing CLI. 
+ (in February 2023) Working to understand the workflow to get sites pushed to Github and deployed on Netlify. I started with the Netlify Feature Tour and got that working. But, suddenly I found myself lost because the Netlify CLI is so slick, it installed all kinds of files that I dont yet understand. I had never seen nor heard of .astro files. So, I found a simpler template to create a "Simple Landing Page with 11ty". Again, a super amazing CLI install and I understood very little of what is going on under the hood with 11ty either. So, now I'm working to build an 11ty site from scratch. So far, my new build is working and I have Tailwind CSS working as well. Again, Tailwind has another amazing CLI. What I have learned is that these are both forms of Static Site Generation and after digging in and working with 11ty, it reminds me of how WordPress works using PHP files to customize templates. I'm really stoked to learn more and employ these 
 
 ### Really Cool Tip: 
  <hr />
