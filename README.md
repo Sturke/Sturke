@@ -24,7 +24,7 @@ The “German” part of German chocolate cake comes from an American man—not 
 
 ### 🔭I am currently:  
 <hr />
- (in October 2023) Working to understand the workflow to get sites pushed to Github and deployed on Netlify using Astro and 11ty. We'll see where this this all leads. I plan to attend a local maker space this week. I like tinkering with raspberry pi's and smart home stuff too. 
+ (August 2024) Working to better understand Javascript. 
 
 ### Really Cool Tip: 
  <hr />
