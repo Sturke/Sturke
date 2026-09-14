@@ -24,12 +24,11 @@ The “German” part of German chocolate cake comes from an American man—not 
 
 ### 🔭I am currently:  
 <hr />
- (Aug 2026) Always working to better understand Javascript. I use Markdown in Obsidian taking notes. This works well using Docusaurus too. I deployed a Docusaurus page at [SturkeDocs](https://sturkedocs.netlify.app/) to see how well that works. I'm reading and learning how to work with various AI tools. 
+ (Sept 2026) Always working to better understand Javascript. I use Markdown in Obsidian taking notes. This works well using Docusaurus too. I deployed a Docusaurus page at [SturkeDocs](https://sturkedocs.netlify.app/) to see how well that works. I'm reading and learning how to work with various AI tools. 
 
-### Really Cool Tip: 
+### Remember FTP?: 
  <hr />
- I Just Learned DEC 3, 2022 from Ryan Hayden at our FreeCodeCamp MeetUp:
-While viewing a GitHub repository in a browser, hit the (.) period key. It should open Visual Studio Code in the browser and you can edit right there, Holy Smoke! Amazing! 
+ I used to keep all of my website files on my hard drive and use FTP to upload them to my hosting space. So much has changed.
 
 
 
