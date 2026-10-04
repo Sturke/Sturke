@@ -24,7 +24,9 @@ The “German” part of German chocolate cake comes from an American man—not 
 
 ### 🔭I am currently:  
 <hr />
- (Sept 2026) Always working to better understand Javascript. I use Markdown in Obsidian taking notes. This works well using Docusaurus too. I deployed a Docusaurus page at [SturkeDocs](https://sturkedocs.netlify.app/) to see how well that works. I'm reading and learning how to work with various AI tools. 
+ (Oct 2026) Always working to better understand Javascript. I use Markdown in Obsidian taking notes. This works well using Docusaurus too. I deployed a Docusaurus page at [SturkeDocs](https://sturkedocs.netlify.app/) to see how well that works. I'm learning and working with ChatGPT to learn and build a personal assistant for my own specific needs. For a simple beginning, I want it to be able to digest and filter my incoming email and phone messages and decide if I need to be bothered with them. Someday, maybe my own version of JARVIS. 
+
+ Hey, a guy can dream. 
 
 ### Remember FTP?: 
  <hr />
